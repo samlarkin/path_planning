@@ -8,4 +8,4 @@ visualisations to aid understanding of these algorithms.
 
 ## Dijkstra's algorithm
 
-![Visualisation of Dijkstra's algorithm](./example_outputs/dijkstra.gif)
+![dijkstra](./example_outputs/dijkstra.gif)
